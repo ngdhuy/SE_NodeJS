@@ -1,0 +1,25 @@
+{
+  "name": "se_nodejs",
+  "version": "1.0.0",
+  "description": "SEstudio NodeJS course",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngdhuy/SE_NodeJS.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "HTTP",
+    "File"
+  ],
+  "author": "NDHuy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngdhuy/SE_NodeJS/issues"
+  },
+  "homepage": "https://github.com/ngdhuy/SE_NodeJS#readme"
+}
